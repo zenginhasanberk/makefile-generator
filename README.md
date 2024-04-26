@@ -4,7 +4,7 @@ This is a Makefile generator extension for C++ in VSCode. It rapidly creates a M
 
 ## Features  
 
-`CMD/CTRL + SHIFT + P` and search for `Create Makefile`. Answer the questions to customize your makefile.  
+`CMD/CTRL + SHIFT + P` and search for `Create Makefile`. Answer the questions to customize your Makefile.  
 
 ## Requirements  
 
@@ -16,13 +16,14 @@ None at this point.
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
+None.
+ 
 ## Release Notes
-
 
 ### 1.0.0
 
 Initial release of makefile-generator.
 
-**I made this extension to streamline my own programming. I hope this help you as well!**
+## Thank You
+
+Thank you for using my extension. I made this to streamline my own programming. I hope this helps you as well!
