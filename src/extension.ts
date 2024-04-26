@@ -66,7 +66,7 @@ export function activate(context: vscode.ExtensionContext) {
         });
 
         if (target_name === "" || target_name === null) {
-          target_name = "my_project";
+          target_name = "executable";
         }
 
         const linker_libraries = await vscode.window.showInputBox({
