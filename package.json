@@ -2,7 +2,7 @@
     "name": "makefile-generator",
     "displayName": "Makefile Generator",
     "description": "A Makefile generator extension for C++ in VSCode. It rapidly creates a Makefile for you so that you don't have to create one yourself.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Hasan Berk Zengin",
         "email": "zenginhasanberk@gmail.com"
