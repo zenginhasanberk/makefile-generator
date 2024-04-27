@@ -24,6 +24,10 @@ None.
 
 Initial release of makefile-generator.
 
+### 1.0.1   
+
+Change default executable name to "executable".
+
 ## Thank You
 
 Thank you for using my extension. I made this to streamline my own programming. I hope this helps you as well!
